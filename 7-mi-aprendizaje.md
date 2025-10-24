@@ -1,3 +1,6 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+* Antes de realizar la práctica, ya tenía conocimientos básicos sobre el uso de Docker, especialmente en lo relacionado con la creación de contenedores y el uso general de imágenes. Sin embargo, al desarrollar esta tarea pude profundizar en temas más específicos como la limitación de recursos, que me permitió entender cómo controlar el consumo de CPU y memoria para evitar sobrecargar el sistema. También aprendí a usar el **healthcheck**, una herramienta muy útil para monitorear el estado de los contenedores y asegurar su correcto funcionamiento.
+
+* Reforcé mis conocimientos sobre la estructura y creación de un Dockerfile, comprendiendo mejor cómo definir cada paso de construcción de la imagen. Finalmente, las **políticas de reinicio me ayudaron a garantizar la disponibilidad de los servicios en caso de fallos, lo que considero fundamental en entornos de producción.
+
+* Durante la práctica tuve un pequeño inconveniente al configurar el healthcheck, ya que el comando no se ejecutaba correctamente dentro del contenedor, pero logré solucionarlo ajustando la ruta del script y verificando los permisos. En general, esta experiencia fortaleció mis habilidades técnicas y mi comprensión sobre la administración eficiente de contenedores, lo cual será muy beneficioso para mi formación profesional.
+
